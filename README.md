@@ -1,1 +1,1 @@
-# Background-Image-Scrolling-Effect
+# Background Image Scrolling Effect
